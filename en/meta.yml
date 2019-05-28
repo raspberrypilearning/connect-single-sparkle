@@ -1,4 +1,4 @@
-title: connect-single-sparkle
+title: Connecting a single Crumble Sparkle
 hero_image: images/banner.png
 description: connect-single-sparkle description
 version: 4
@@ -7,5 +7,3 @@ copyedit: false
 last_tested: "2019-05-28"
 steps:
   - title: Introduction
-  - title: Step title
-  - title: What next?
